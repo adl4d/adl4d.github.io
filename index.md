@@ -1,10 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ADL4D: Towards A Contextually Rich Dataset
-for 4D Activities of Daily Living</title>
+
 </head>
 <body>
 <h1 align="center">ADL4D: Towards A Contextually Rich Dataset
